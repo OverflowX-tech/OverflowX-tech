@@ -43,16 +43,16 @@
       </stop>
     </linearGradient>
 
-    <!-- Main name text gradient (Cyan-to-Purple) -->
+    <!-- Main name text gradient (Teal-to-White) -->
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00f5ff">
-        <animate attributeName="stop-color" values="#00f5ff;#7B2FFF;#00f5ff" dur="3s" repeatCount="indefinite"/>
+      <stop offset="0%" style="stop-color:#27F5F2">
+        <animate attributeName="stop-color" values="#27F5F2;#ffffff;#27F5F2" dur="3.5s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" style="stop-color:#e0aaff">
-        <animate attributeName="stop-color" values="#e0aaff;#00f5ff;#e0aaff" dur="3s" repeatCount="indefinite"/>
+      <stop offset="50%" style="stop-color:#ffffff">
+        <animate attributeName="stop-color" values="#ffffff;#27F5F2;#ffffff" dur="3.5s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" style="stop-color:#7B2FFF">
-        <animate attributeName="stop-color" values="#7B2FFF;#e0aaff;#7B2FFF" dur="3s" repeatCount="indefinite"/>
+      <stop offset="100%" style="stop-color:#27F5F2">
+        <animate attributeName="stop-color" values="#27F5F2;#ffffff;#27F5F2" dur="3.5s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
