@@ -1,34 +1,51 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 DISCORD NITRO-STYLE PREMIUM ANIMATED BANNER                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡🔥 DISCORD NITRO-STYLE PREMIUM ANIMATED BANNER — MAXIMUM EFFORT 🔥⚡ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- Layer 1: Cosmic Waveform Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,15:1a0a3e,30:302b63,50:7B2FFF,70:302b63,85:1a0a3e,100:0f0c29&height=300&section=header&text=⚡%20JIMMY%20⚡&fontSize=85&fontColor=00f5ff&animation=fadeIn&fontAlignY=32&stroke=7B2FFF&strokeWidth=4&desc=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&descSize=12&descAlignY=52&descAlign=50&descColor=7B2FFF"/>
+<!-- ░░░ LAYER 1: Twinkling Stars Header with Neon Glow ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,10:1a0a3e,25:302b63,40:7B2FFF,55:00f5ff,70:7B2FFF,85:302b63,100:0f0c29&height=320&section=header&text=⚡%20JIMMY%20⚡&fontSize=90&fontColor=00f5ff&animation=twinkling&fontAlignY=35&stroke=7B2FFF&strokeWidth=5&desc=▀▄▀▄▀▄%20SYNTAX%20SAVAGE%20▄▀▄▀▄▀&descSize=18&descAlignY=58&descAlign=50&descColor=e0aaff"/>
 
-<!-- Layer 2: Animated Glitch Title -->
+<!-- ░░░ LAYER 2: Animated Lightning Bolts ░░░ -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+<!-- ░░░ LAYER 3: Holographic Animated Name — Large Glitch Text ░░░ -->
 <a href="https://github.com/syntax-savage">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%E2%9A%A1+SYNTAX+SAVAGE+%E2%9A%A1;%F0%9F%94%A5+DR.CODE+%F0%9F%94%A5;%F0%9F%92%80+FULL+STACK+ARCHITECT+%F0%9F%92%80" alt="Animated Title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=850&height=80&lines=%E2%9A%A1%E2%9A%A1%E2%9A%A1+SYNTAX+SAVAGE+%E2%9A%A1%E2%9A%A1%E2%9A%A1;%F0%9F%94%A5+DR.CODE+%F0%9F%94%A5;%F0%9F%92%80+FULL+STACK+ARCHITECT+%F0%9F%92%80;%E2%9A%A1+CODE+%E2%80%A2+BUILD+%E2%80%A2+DEPLOY+%E2%80%A2+REPEAT+%E2%9A%A1" alt="Animated Title"/>
 </a>
 
-<!-- Layer 3: Premium Subtitle Glow -->
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=2000&pause=600&color=E0AAFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9A%A1+Forging+the+future+with+every+keystroke;%F0%9F%94%A5+Building+AI+that+saves+lives;%F0%9F%9A%80+From+napkin+sketch+to+deployed+app;%E2%98%81%EF%B8%8F+Cloud+%7C+Android+%7C+AI+%7C+Full+Stack;%F0%9F%8E%AF+16+yo+dev+%7C+15+repos+%7C+Infinite+ambition" alt="Subtitle"/>
+<!-- ░░░ LAYER 4: Neon Electric Pulse Bar ░░░ -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- Layer 4: Animated Neon Divider -->
+<!-- ░░░ LAYER 5: Secondary Animated Title — Holographic Shimmer ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=1800&pause=400&color=7B2FFF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+FORGING+THE+FUTURE+WITH+EVERY+KEYSTROKE+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+BUILDING+AI+THAT+SAVES+LIVES+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+NAPKIN+SKETCH+%E2%86%92+DEPLOYED+APP+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+16+YO+DEV+%7C+15+REPOS+%7C+%E2%88%9E+AMBITION+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Holographic Subtitle"/>
+
+<!-- ░░░ LAYER 6: Animated RGB Wave Separator ░░░ -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+<!-- ░░░ LAYER 7: Tertiary Subtitle — Smooth Flow ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&repeat=true&width=650&height=40&lines=%E2%98%81%EF%B8%8F+Cloud+%E2%80%A2+%F0%9F%A4%96+Android+%E2%80%A2+%F0%9F%A7%A0+AI+%E2%80%A2+%F0%9F%9A%80+Full+Stack;%F0%9F%92%8E+Kotlin+2.0+%E2%80%A2+Jetpack+Compose+%E2%80%A2+React+%E2%80%A2+Node.js;%F0%9F%8F%86+15+Repos+%E2%80%A2+Real-World+Impact+%E2%80%A2+Zero+Limits" alt="Tech Subtitle"/>
 
 <br/>
 
-<!-- Neon-glow profile badges -->
+<!-- ░░░ LAYER 8: Premium Glowing Neon Badges ░░░ -->
 <a href="https://github.com/syntax-savage?tab=followers">
   <img src="https://img.shields.io/github/followers/syntax-savage?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0d0d1a&logo=github&logoColor=white" alt="GitHub Followers">
 </a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=syntax-savage&label=PROFILE+VIEWS&style=for-the-badge&color=00f5ff&labelColor=0d0d1a" alt="Profile Views">
+&nbsp;
 <a href="https://github.com/syntax-savage?tab=repositories">
   <img src="https://img.shields.io/badge/Repos-15-e0aaff?style=for-the-badge&labelColor=0d0d1a&logo=github" alt="Repositories">
 </a>
-<img src="https://img.shields.io/badge/PRO-Developer-FFD700?style=for-the-badge&labelColor=0d0d1a&logo=github&logoColor=FFD700" alt="Pro">
+&nbsp;
+<img src="https://img.shields.io/badge/⚡_PRO-Developer-FFD700?style=for-the-badge&labelColor=0d0d1a&logo=githubsponsors&logoColor=FFD700" alt="Pro">
+&nbsp;
+<img src="https://img.shields.io/badge/🔥_NITRO-Boosted-FF73FA?style=for-the-badge&labelColor=0d0d1a&logo=discord&logoColor=FF73FA" alt="Nitro">
+
+<!-- ░░░ LAYER 9: Animated Electric Line ░░░ -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
