@@ -4,8 +4,8 @@
 <!--  ✦ PREMIUM PROFILE BANNER — CLEAN & POWERFUL  -->
 <!-- ═══════════════════════════════════════════════ -->
 
-<!-- ✦ HERO: Custom animated SVG banner (Self-hosted) -->
-[![syntax-savage banner](banner.svg?v=5)](https://github.com/syntax-savage)
+<!-- ✦ HERO: Custom animated GIF banner (Self-hosted) -->
+[![syntax-savage banner](banner.gif)](https://github.com/syntax-savage)
 
 <br/>
 
